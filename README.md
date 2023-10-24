@@ -4,3 +4,5 @@ Ed lessons:
 
 - Responsive design
 - Flexbox
+
+Lesson Goals
